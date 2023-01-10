@@ -6,7 +6,7 @@ using namespace sf;
 int main()
 {
 
-	sf::RenderWindow window(sf::VideoMode(1200, 600), "Lesson 2. kychka-pc.ru");
+	sf::RenderWindow window(sf::VideoMode(1200, 600), "Random dice generator");
 	
 	Texture firstDice;
 	firstDice.loadFromFile("images/dice.png");
